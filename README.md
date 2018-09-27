@@ -56,5 +56,3 @@ key: 0, value:ccc
 key: 1, value:sss 
 key: 1, value:bbb
 ```
-
-# hashtable_realization
